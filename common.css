@@ -32,7 +32,6 @@ body{
 }
 
 header {
-             padding: 20px 30px 10px 30px;  
              margin:0px 20px 10px 20px;  
              text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
@@ -44,8 +43,8 @@ header {
      padding-bottom: 15px;
      text-shadow: 1px 1px 1px rgba(0,0,0,0.2); 	 
      text-align:center; 
-     left:auto;
-     right:auto;
+     margin-left:auto;
+     margin-right:auto;
 }
 
 /*页面主体*/
