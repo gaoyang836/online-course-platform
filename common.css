@@ -99,11 +99,12 @@ header {
      font-size: 20px;
      line-height: 25px;
      font-weight: 400;
-     color:#4c464626;
+     color:#3a2127;
      padding-bottom: 15px;
      padding-top: 15px;  
      width:70%;
      margin:0 auto;
+     text-align:center;
 }
 
 
