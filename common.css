@@ -68,7 +68,7 @@ header {
 	text-align:center; 
 }
 
-.cr-container label{
+.cr-container a{
 	font-style:italic;
 	width:100px;
 	cursor:pointer;
