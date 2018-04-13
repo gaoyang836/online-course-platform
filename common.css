@@ -49,9 +49,9 @@ header {
 
 /*页面主体*/
 
-.h1{
-     font-size: 30px;
-     line-height: 25px;
+.cr-container h1{
+     font-size: 40px;
+     line-height: 50px;
      font-weight: 400;
      color:#1b141447;
      padding-bottom: 15px;
