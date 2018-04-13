@@ -80,6 +80,7 @@ header {
 	float:left;
 	position:relative;
 	border:2px solid #1b141447;
+	text-decoration:none;
 }
 
 .cr-container span{
@@ -94,18 +95,16 @@ header {
 	position:absolute;
 	border:1px solid #1b141447;
 	border-radius:50%;
-	text-decoration: none;
 }
 
 img{
-     weight:600px;
+     weight:580px;
      height:350px;
      padding-bottom: 15px;
      padding-top: 15px;  
      width:70%;
      margin:0 auto;
-     position:absolute;
-     display: block;     
+     display: block;    
 }
 .cr-container p{
      font-size: 20px;
