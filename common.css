@@ -96,15 +96,14 @@ header {
 	border-radius:50%;
 }
 
-.text{
-     weight: 800px;
+.img{
+     weight:800px;
      height:500px;
      padding-bottom: 15px;
      padding-top: 15px;  
      width:70%;
      margin:0 auto;
      text-align:center;
-     background-image: url(images/img1.png);
      position:absolute;
      display: block;
      
