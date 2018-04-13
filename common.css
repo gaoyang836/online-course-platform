@@ -103,6 +103,7 @@ header {
      margin:0 auto;
      text-align:center;
      background-image: url(images/img1.png);
+     position:absolute;
 }
 .cr-container p{
      font-size: 20px;
