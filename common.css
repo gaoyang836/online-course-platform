@@ -48,6 +48,15 @@ header {
 
 /*页面主体*/
 
+.h1{
+     font-size: 30px;
+     line-height: 25px;
+     font-weight: 400;
+     color:#1b141447;
+     padding-bottom: 15px;
+     text-shadow: 1px 1px 1px rgba(0,0,0,0.2); 	 
+     text-align:center; 
+}
 .cr-container{
 	width:1000px;
 	height:600px;
