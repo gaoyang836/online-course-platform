@@ -95,18 +95,7 @@ header {
 	border:1px solid #1b141447;
 	border-radius:50%;
 }
-.cr-container div span{
-     font-size: 20px;
-     line-height: 25px;
-     font-weight: 400;
-     color:#3a2127;
-     padding-bottom: 15px;
-     padding-top: 15px;  
-     width:70%;
-     margin:0 auto;
-     text-align:center;
-     background-image: url(images/img1.png);
-}
+
 .cr-container p{
      font-size: 20px;
      line-height: 25px;
