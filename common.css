@@ -34,6 +34,7 @@ body{
 header {
              margin:0px 20px 10px 20px;  
              text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	     text-align:center;
 }
  header > h{
      font-size: 50px;
@@ -43,8 +44,7 @@ header {
      padding-bottom: 15px;
      text-shadow: 1px 1px 1px rgba(0,0,0,0.2); 	 
      text-align:center; 
-     margin-left:auto;
-     margin-right:auto;
+     display:block;
 }
 
 /*页面主体*/
