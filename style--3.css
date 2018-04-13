@@ -96,7 +96,7 @@ header {
 	border:1px solid #1b141447;
 	border-radius:50%;
 }
-.text{
+p.text{
 	 
 	 font-size: 30px;
      line-height: 35px;
@@ -110,7 +110,7 @@ header {
      display: block;
 }
 
-.answer{
+p.answer{
      font-size: 16px;
      line-height: 18px;
      font-weight: 400;
