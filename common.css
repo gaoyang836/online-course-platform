@@ -95,7 +95,8 @@ header {
 	border:1px solid #1b141447;
 	border-radius:50%;
 }
-.cr-container div span{
+
+.text{
      font-weight: 400;
      padding-bottom: 15px;
      padding-top: 15px;  
