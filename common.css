@@ -93,6 +93,7 @@ header {
 	float:left;
 	position:absolute;
 	border:1px solid #1b141447;
+	border-radius:50%;
 }
 
 .cr-container p{
