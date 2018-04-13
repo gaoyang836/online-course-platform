@@ -62,13 +62,12 @@ header {
 .cr-container label{
 	font-style:italic;
 	width:100px;
-	height:30px;
 	cursor:pointer;
 	color:#fff;
 	font-size:24px;
-	text-align:right;
-	top:330px;
-	right:30px;
+	text-align:center;
+	top:530px;
+	left:850px;
 	float:left;
 	position:relative;
 	border:2px solid #1b141447;
