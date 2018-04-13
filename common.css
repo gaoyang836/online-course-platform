@@ -65,6 +65,7 @@ header {
 	margin:0 auto;
 	position:relative;
 	border:20px solid #fff;
+	text-align:center; 
 }
 
 .cr-container input{
@@ -104,8 +105,8 @@ header {
      font-weight: 400;
      color:#4c464626;
      padding-bottom: 15px;
-     padding-top: 15px; 
-     text-align:center; 
+     padding-top: 15px;  
+     width:50%
 }
 
 
