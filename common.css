@@ -38,7 +38,7 @@ header {
 }
  header > h{
      font-size: 50px;
-     line-height: 35px;
+     line-height: 100px;
      font-weight: 400;
      color:rgba(26,89,120,0.9);
      padding-bottom: 15px;
