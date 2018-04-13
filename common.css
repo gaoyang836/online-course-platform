@@ -94,6 +94,7 @@ header {
 	position:absolute;
 	border:1px solid #1b141447;
 	border-radius:50%;
+	text-decoration: none;
 }
 
 img{
