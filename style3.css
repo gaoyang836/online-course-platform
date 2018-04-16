@@ -96,6 +96,17 @@ header {
 	border:1px solid #1b141447;
 	border-radius:50%;
 }
+.text{
+     float: left;
+     font-size:20px;
+     line-height:50px;
+     font-weight:400;
+     color:#3a2127;
+     padding-bottom: 15px;
+     padding-top: 35px;  
+     margin:0 100px;
+     text-align:left;
+}
 
 p{ 
 	 font-size:20px;
@@ -108,9 +119,8 @@ p{
      text-align:left;
      display:block;
 } 
-}
-.text{
-     float: left;
+
+
     
 .answer{
      font-size: 16px;
