@@ -97,7 +97,11 @@ header {
 	border-radius:50%;
 }
 .text{
-     font-size:20px;
+     position:relative; 
+}
+p{
+	width: 40%;
+	font-size:20px;
      line-height:50px;
      font-weight:400;
      color:#3a2127;
@@ -105,12 +109,7 @@ header {
      padding-top: 35px;  
      margin:0 100px;
      text-align:left;
-     display:block;
-     display: inline-block;
-    
-}
-p{
-	width: 40%;
+     position: absolute;
 }   
 .answer{
      font-size: 16px;
@@ -120,12 +119,11 @@ p{
      padding-bottom: 300px;
      padding-top: 15px;  
      width:40%;
-     margin:20px 20px 50px 500px ;
+     margin:20px 20px 20px 400px ;
      text-align:left;
-     display:inline-block;
      border:2px solid #1b141447;
-     display: inline-block;
-     width: 60%;    
+     width: 60%; 
+     position: absolute;   
 }
 
 
