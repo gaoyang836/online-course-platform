@@ -1,0 +1,151 @@
+/*通用样式*/
+*{
+margin:0;
+padding:0;
+}
+html,body {
+           margin: 0;
+           padding: 0;
+           height: 100%;
+}
+body{
+	background:#3333;
+}
+table {
+border-collapse:collapse;
+border-spacing: 0; 
+}
+
+h1,h2{
+	font-size: 100%;
+	font-weight: normal;
+}
+
+}
+/*自定义样式*/
+body{
+         font-family: Cambria,Palatino,"Palatino Linotype"，"Palatino LT STD",General,serif;
+         font-size: 30px;
+         color: #3a2127;
+         font-weight: 400;
+         overflow-y:scroll;
+}
+
+header {
+             margin:0px 20px 10px 20px;  
+             text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	     text-align:center;
+}
+ header > h{
+     font-size: 50px;
+     line-height: 100px;
+     font-weight: 400;
+     color:rgba(26,89,120,0.9);
+     padding-bottom: 15px;
+     text-shadow: 1px 1px 1px rgba(0,0,0,0.2); 	 
+     text-align:center; 
+     display:block;
+}
+
+/*页面主体*/
+
+.cr-container h1{
+     font-size: 40px;
+     line-height: 50px;
+     font-weight: 400;
+     color:#1b141447;
+     padding-bottom: 15px;
+     padding-top: 15px;
+     text-shadow: 1px 1px 1px rgba(0,0,0,0.2); 	 
+     text-align:center; 
+}
+.cr-container{
+	width:1000px;
+	height:600px;
+	margin:0 auto;
+	position:relative;
+	border:20px solid #fff;
+	text-align:center; 
+}
+
+.cr-container a{
+	font-style:italic;
+	width:100px;
+	cursor:pointer;
+	color:#fff;
+	font-size:24px;
+	text-align:center;
+	top:460px;
+	left:770px;
+	float:left;
+	position:relative;
+	border:2px solid #1b141447;
+	text-decoration:none;
+}
+
+.cr-container span{
+	width:34px;
+	cursor:pointer;
+	color:#fff;
+	font-size:24px;
+	text-align:center;
+	bottom:540px;
+	left:930px;
+	float:left;
+	position:absolute;
+	border:1px solid #1b141447;
+	border-radius:50%;
+}
+
+.anwerone  {
+	font-size: 20px;
+     line-height: 18px;
+     font-weight: 400;
+     color:#3a2127;
+     padding-bottom:5px;
+     padding-top: 5px; 
+     padding-left:15px;
+     margin:20px ;
+     text-align:left;
+     border:2px solid #1b141447;
+     width: 100%;     
+}
+.anwertwo{
+	font-size: 20px;
+     line-height: 18px;
+     font-weight: 400;
+     color:#3a2127;
+     padding-bottom:5px;
+     padding-top: 5px; 
+     padding-left:15px;
+     margin:20px ;
+     text-align:left;
+     border:2px solid #1b141447;
+     width: 100%;     
+}
+.anwerthree{
+	 font-size: 20px;
+     line-height: 18px;
+     font-weight: 400;
+     color:#3a2127;
+     padding-bottom:5px;
+     padding-top: 5px; 
+     padding-left:15px;
+     margin:20px ;
+     text-align:left;
+     border:2px solid #1b141447;
+     width: 100%;  
+}
+label{
+ font-size: 20px;
+     line-height: 18px;
+     font-weight: 400;
+     width: 100%; 
+     padding-bottom:5px;
+     padding-top: 5px; 
+     padding-left:15px;
+     margin:20px ;
+     text-align:left;
+
+     
+}
