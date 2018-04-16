@@ -107,9 +107,11 @@ header {
      text-align:left;
      display:block;
      display: inline-block;
-     width: 50%;
+    
 }
-   
+p{
+	width: 40%;
+}   
 .answer{
      font-size: 16px;
      line-height: 18px;
@@ -123,7 +125,7 @@ header {
      display:inline-block;
      border:2px solid #1b141447;
      display: inline-block;
-     width: 50%;    
+     width: 60%;    
 }
 
 
