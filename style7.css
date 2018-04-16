@@ -97,33 +97,7 @@ header {
 	border-radius:50%;
 }
 
-.anwerone  {
-	font-size: 20px;
-     line-height: 18px;
-     font-weight: 400;
-     color:#3a2127;
-     padding-bottom:5px;
-     padding-top: 5px; 
-     padding-left:15px;
-     margin:20px ;
-     text-align:left;
-     border:2px solid #1b141447;
-     width: 100%;     
-}
-.anwertwo{
-	font-size: 20px;
-     line-height: 18px;
-     font-weight: 400;
-     color:#3a2127;
-     padding-bottom:5px;
-     padding-top: 5px; 
-     padding-left:15px;
-     margin:20px ;
-     text-align:left;
-     border:2px solid #1b141447;
-     width: 100%;     
-}
-.anwerthree{
+.anwer  {
 	 font-size: 20px;
      line-height: 18px;
      font-weight: 400;
@@ -134,18 +108,19 @@ header {
      margin:20px ;
      text-align:left;
      border:2px solid #1b141447;
-     width: 100%;  
+     width: 80%;  
+     display: block;   
 }
+
 label{
- font-size: 20px;
-     line-height: 18px;
+     font-size: 20px;
      font-weight: 400;
      width: 100%; 
      padding-bottom:5px;
      padding-top: 5px; 
-     padding-left:15px;
-     margin:20px ;
+     padding-left:75px;
+     margin:0 auto;
      text-align:left;
-
+     display: block;
      
 }
