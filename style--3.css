@@ -98,30 +98,43 @@ header {
 }
 
 p{ 
-	 font-size:30px;
-     line-height:35px;
+	 font-size:20px;
+     line-height:60px;
      font-weight:400;
      color:#3a2127;
      padding-bottom: 15px;
-     padding-top: 15px;  
+     padding-top: 35px;  
      width:30%;
-     margin:0 auto;
-     text-align:right;
+     margin:0 100px;
+     text-align:left;
      display: block;
 }
-
+.text{
+     font-size: 20px;
+     line-height: 60px;
+     font-weight: 400;
+     color:#3a2127;
+     padding-bottom: 15px;
+     padding-top: 35px;  
+     width:30%;
+     margin:0px 100px;
+     text-align:left;
+     display: block;
+     float: left;
+}
 .answer{
      font-size: 16px;
      line-height: 18px;
      font-weight: 400;
      color:#3a2127;
-     padding-bottom: 15px;
+     padding-bottom: 300px;
      padding-top: 15px;  
-     width:70%;
-     margin:0 auto;
+     width:40%;
+     margin:20px 20px 50px 500px ;
      text-align:left;
      display: block;
      border:2px solid #1b141447;
+     float: right;
 }
 
 
